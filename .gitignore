@@ -1,0 +1,10 @@
+# Dependencies & Production Code
+/node_modules
+/dist
+/vendor
+
+# Log files
+npm-debug.log*
+
+# Editor directories and files
+.vscode
